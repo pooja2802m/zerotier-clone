@@ -42,7 +42,7 @@ const Header = () => {
           </nav>
           <ul className="ulList loginSignupItemsGap">
             <li>
-              <Link href="/login" className="loginSignupText">
+              <Link href="/login" className="loginButton loginSignupText">
                 Login
               </Link>
             </li>

@@ -33,7 +33,7 @@ const Section1 = () => {
                       </Link>
                     </li>
                     <li>
-                      <Link href="/" className="loginSignupText">
+                      <Link href="/" className="loginButton loginSignupText">
                         Learn more ›
                       </Link>
                     </li>
