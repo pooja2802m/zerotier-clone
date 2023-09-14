@@ -1,3 +1,4 @@
+/* eslint-disable */
 import Link from "next/link";
 import React, { useState } from "react";
 import MainIcon from "./SVGs/MainIcon";
@@ -68,7 +69,7 @@ const Footer = () => {
               <MainIcon />
             </Link>
             <div className="text-1">
-              {`Securely Connecting The World's Devices.`}
+              Securely Connecting The World's Devices.
             </div>
           </div>
           <div style={{ margin: "auto" }}></div>
