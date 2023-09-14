@@ -68,7 +68,7 @@ const Footer = () => {
               <MainIcon />
             </Link>
             <div className="text-1">
-              Securely Connecting The World's Devices.
+              {`Securely Connecting The World's Devices.`}
             </div>
           </div>
           <div style={{ margin: "auto" }}></div>
